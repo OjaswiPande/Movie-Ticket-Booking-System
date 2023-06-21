@@ -1,6 +1,6 @@
 # Movie-Ticket-Booking-System
 Python Project using Tkinter
-
+Video is in project folder
 
 1. Problem Statement
 Problem Scenario:
